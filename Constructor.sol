@@ -2,7 +2,7 @@
 pragma solidity ^0.8.0;	
 		
 // Creating a contract
-contract constructorExp {	
+contract ConstructorExp {	
 		
 	// Declaring state variable
 	string community;	
